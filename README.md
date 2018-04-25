@@ -1,4 +1,5 @@
 <h1>Sprite animation</h1>
-<h2>Installation:</h2>
+This is just silly js sprite annimation.
 
-`Run index.html`
+<h2>Installation:</h2>
+Run `index.html`.
