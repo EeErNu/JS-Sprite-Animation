@@ -2,4 +2,4 @@
 This is just silly js sprite annimation.
 
 <h2>Installation:</h2>
-Run `index.html`.
+Run index.html.
